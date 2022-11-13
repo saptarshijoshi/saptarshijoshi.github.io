@@ -17,6 +17,6 @@ Hello, I'm a senior undergraduate at the [Indian Institute of Technology Bombay]
 During the Summer of 2022, I investigated Negatively Buoyant Jets in Viscoplastic ambient fluids using experimental flow visualization techniques and also predicted semiturbulent positively buoyant jet shape using machine learning at [LCFR](http://www2.gch.ulaval.ca/smtag/), Universite Laval, Canada. I first pursued data-driven modeling in 2021 to improve the Discrete Elastic Rods Algorithm under [Prof. Jawed](http://www.khalidjawed.com/) at his lab in UCLA. My current research is concerned with enhancing heat transfer performance of pin fin channels in trailing edge sections of gas turbine blades as a part of my undergraduate thesis. In future, I envision myself developing clean, efficient, and intelligent thermo-fluid technologies by utilizing
 experimental methods, computational engineering, and data-driven modeling.
 
-I enjoy pop, rock and classical music and can play the guitar as well as sing (a bit). I like to play cricket, among other sports and you can often find me engaged in deep intellectual conversations at 3 am! 
+I enjoy pop, rock and classical music and can play the guitar as well as sing (a bit). I like to play cricket, among other sports and you would often find me engaged in deep intellectual conversations at 3 am! 
 
  
