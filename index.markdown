@@ -9,7 +9,7 @@ title: About Me
 ---
 
 {:refdef: style="text-align: center;"}
-![Img](.\Photo-Toronto-cropped.jpeg){: width="500"}
+![Img](.\Photo-Toronto-cropped2.jpeg){: width="500"}
 {: refdef}
 
 Hello, I'm a senior undergraduate at the [Indian Institute of Technology Bombay](https://www.iitb.ac.in/) majoring in Mechanical Engineering with Honors. I am also pursuing a Minor Degree in Artificial Intelligence and Data Sciences at [C-MInDS, IIT Bombay](https://www.minds.iitb.ac.in/). My research interests include Experimental Fluid Mechanics, Computational Fluid Dynamics, Heat Transfer, Multiphase Flows, Turbulence Modeling and Machine Learning. You can find my CV [here](https://drive.google.com/file/d/1zizRwDKQuxtf1Od9frYt0MWSPwsYfpCN/view?usp=share_link).
